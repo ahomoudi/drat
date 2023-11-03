@@ -6,3 +6,14 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: idps
+Version: 0.0.1
+Imports: dplyr, fftwtools, gganimate, ggplot2, lubridate, magrittr,
+        ncdf4, purrr, RCurl, readr, rhdf5, rnaturalearth,
+        rnaturalearthhires (>= 0.2.1), scales, sf, stringr, terra (>=
+        1.7.0), tibble, tidyr
+Suggests: knitr, rmarkdown
+License: CC BY 4.0
+MD5sum: 9d78999c9f37d51e5367089d1c98ec76
+NeedsCompilation: no
