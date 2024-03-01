@@ -6,4 +6,4 @@ Imports: dplyr, fftwtools, gganimate, ggplot2, lubridate, magrittr,
         1.7.0), tibble, tidyr
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
-MD5sum: 675665cbba8df2d3ec268509321e445c
+MD5sum: a4d6f63e0a340db509225a7d24fcd101
