@@ -15,5 +15,5 @@ Imports: dplyr, fftwtools, gganimate, ggplot2, lubridate, magrittr,
         1.7.0), tibble, tidyr
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
-MD5sum: 9d78999c9f37d51e5367089d1c98ec76
+MD5sum: 72b7095f973b1ff50a10a87a436d1683
 NeedsCompilation: no
