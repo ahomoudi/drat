@@ -9,11 +9,11 @@ NeedsCompilation: no
 
 Package: idps
 Version: 0.0.1
-Imports: data.table, dplyr, fftwtools, fitdistrplus, gganimate,
-        ggplot2, lubridate, magrittr, ncdf4, purrr, RCurl, readr,
-        rhdf5, rnaturalearth, rnaturalearthhires (>= 0.2.1), scales,
-        sf, stats, stringr, terra (>= 1.7.0), tibble, tidyr, units
+Imports: dplyr, fftwtools, fitdistrplus, gganimate, ggplot2, lubridate,
+        magrittr, ncdf4, purrr, RCurl, readr, rhdf5, rnaturalearth,
+        rnaturalearthhires (>= 0.2.1), scales, sf, stats, stringr,
+        terra (>= 1.7.0), tibble, tidyr, units
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
-MD5sum: b606afe40e77b4ad0e6698ac316ef0ef
+MD5sum: e0e84a2b091c053b8885d15302fc2483
 NeedsCompilation: no
