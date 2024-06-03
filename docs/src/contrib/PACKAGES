@@ -16,3 +16,13 @@ Suggests: knitr, rmarkdown
 License: CC BY 4.0
 MD5sum: 8c8221561f8dc6dbaaea738cc48b1913
 NeedsCompilation: no
+
+Package: idps
+Version: 1.0.0
+Imports: dplyr, fitdistrplus, gganimate, ggplot2, igraph, lubridate,
+        magrittr, ncdf4, RCurl, readr, rhdf5, sf, stats, stringr, terra
+        (>= 1.7.0), tidyr, units
+Suggests: knitr, rmarkdown
+License: CC BY 4.0
+MD5sum: ed525669640b44ed653e0ae612cb098d
+NeedsCompilation: no
