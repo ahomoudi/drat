@@ -9,8 +9,8 @@ Archs: x64
 
 Package: idps
 Version: 1.0.0
-Imports: dplyr, fitdistrplus, gganimate, ggplot2, igraph, lubridate,
-        magrittr, ncdf4, RCurl, readr, rhdf5, sf, stats, stringr, terra
+Imports: dplyr, fitdistrplus, gganimate, ggplot2, igraph, imager,
+        lubridate, magrittr, ncdf4, rhdf5, sf, stats, stringr, terra
         (>= 1.7.0), tidyr, units
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
