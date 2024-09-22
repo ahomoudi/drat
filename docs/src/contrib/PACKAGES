@@ -24,5 +24,5 @@ Imports: dplyr, fitdistrplus, gganimate, ggplot2, igraph, imager,
         (>= 1.7.0), tidyr, units
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
-MD5sum: 19846e7f61ffefa64a82dd2c8925502c
+MD5sum: de0943fc7d5e4bc2dec3d9284e91b9e9
 NeedsCompilation: no
