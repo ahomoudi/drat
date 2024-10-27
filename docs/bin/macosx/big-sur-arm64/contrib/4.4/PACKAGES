@@ -1,8 +1,8 @@
 Package: idps
 Version: 1.0.0
-Imports: dplyr, fitdistrplus, gganimate, ggplot2, igraph, imager,
-        lubridate, magrittr, ncdf4, rhdf5, sf, stats, stringr, terra
-        (>= 1.7.0), tidyr, units
+Imports: dplyr, fitdistrplus, ggplot2, igraph, imager, lubridate,
+        magrittr, rhdf5, sf, stats, stringr, terra (>= 1.7.0), tidyr,
+        units
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
-MD5sum: 0a9f56b09cb15602a165d819e5e4c6a6
+MD5sum: 63c20f50c999e0819dcdbd9df67dce3b
