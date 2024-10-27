@@ -19,10 +19,10 @@ NeedsCompilation: no
 
 Package: idps
 Version: 1.0.0
-Imports: dplyr, fitdistrplus, gganimate, ggplot2, igraph, imager,
-        lubridate, magrittr, ncdf4, rhdf5, sf, stats, stringr, terra
-        (>= 1.7.0), tidyr, units
+Imports: dplyr, fitdistrplus, ggplot2, igraph, imager, lubridate,
+        magrittr, rhdf5, sf, stats, stringr, terra (>= 1.7.0), tidyr,
+        units
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
-MD5sum: 7ac6e12c5cd5aa6c37e9090f0c43066c
+MD5sum: 7d1e01e137e50ca4af3179168964c8cb
 NeedsCompilation: no
