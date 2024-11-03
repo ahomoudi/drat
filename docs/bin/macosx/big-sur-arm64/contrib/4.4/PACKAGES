@@ -6,3 +6,8 @@ Imports: dplyr, fitdistrplus, ggplot2, igraph, imager, lubridate,
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
 MD5sum: 63c20f50c999e0819dcdbd9df67dce3b
+
+Package: MeteoMate
+Version: 1.0.0
+License: CC BY 4.0
+MD5sum: abd1f2fa740f739f0649e0f9fd15e180
