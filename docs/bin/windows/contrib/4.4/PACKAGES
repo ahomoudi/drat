@@ -6,3 +6,8 @@ Imports: dplyr, fitdistrplus, ggplot2, igraph, imager, lubridate,
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
 Archs: x64
+
+Package: MeteoMate
+Version: 1.0.0
+License: CC BY 4.0
+Archs: x64
