@@ -26,3 +26,10 @@ Suggests: knitr, rmarkdown
 License: CC BY 4.0
 MD5sum: 7d1e01e137e50ca4af3179168964c8cb
 NeedsCompilation: no
+
+Package: MeteoMate
+Version: 1.0.0
+Depends: R (>= 2.10)
+License: CC BY 4.0
+MD5sum: d8359855013e0d4cf40018deb07fe11f
+NeedsCompilation: no
