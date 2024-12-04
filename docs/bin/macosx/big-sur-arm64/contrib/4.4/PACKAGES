@@ -11,4 +11,4 @@ Package: MeteoMate
 Version: 1.0.0
 Depends: R (>= 2.10)
 License: CC BY 4.0
-MD5sum: 269952dba14bff8b026125e6e54a6344
+MD5sum: e15af882f977121bebf9924bbb93a310
