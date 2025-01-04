@@ -31,5 +31,5 @@ Package: MeteoMate
 Version: 1.0.0
 Depends: R (>= 2.10)
 License: CC BY 4.0
-MD5sum: d4f07c7bd7f04e7914879b785e87359d
+MD5sum: b44761dd6b3b69e3755112258f0dfc88
 NeedsCompilation: no
