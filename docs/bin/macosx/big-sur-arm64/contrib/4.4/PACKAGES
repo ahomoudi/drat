@@ -10,5 +10,6 @@ MD5sum: 63c20f50c999e0819dcdbd9df67dce3b
 Package: MeteoMate
 Version: 1.0.0
 Depends: R (>= 2.10)
+Imports: ncdf4
 License: CC BY 4.0
-MD5sum: e1d13a3013cc7fd61e473f10d5837ae6
+MD5sum: c9a6e3b4ae128eb41ee38f615e4ea31f
