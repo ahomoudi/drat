@@ -30,6 +30,7 @@ NeedsCompilation: no
 Package: MeteoMate
 Version: 1.0.0
 Depends: R (>= 2.10)
+Imports: ncdf4
 License: CC BY 4.0
-MD5sum: b44761dd6b3b69e3755112258f0dfc88
+MD5sum: 01a45c72a9b6ef250a3d9921920cd767
 NeedsCompilation: no
