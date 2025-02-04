@@ -12,4 +12,4 @@ Version: 1.0.0
 Depends: R (>= 2.10)
 Imports: ncdf4
 License: CC BY 4.0
-MD5sum: c9a6e3b4ae128eb41ee38f615e4ea31f
+MD5sum: 6a88b46cec9471c577905bf4a420bc7d
