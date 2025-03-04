@@ -32,5 +32,5 @@ Version: 1.0.0
 Depends: R (>= 2.10)
 Imports: ncdf4
 License: CC BY 4.0
-MD5sum: 8aeffb0da330d49b8c77d8724ca3a47e
+MD5sum: 2f9855c44a202372f290d2c9b192d102
 NeedsCompilation: no
