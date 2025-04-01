@@ -11,5 +11,6 @@ Package: MeteoMate
 Version: 1.0.0
 Depends: R (>= 2.10)
 Imports: ncdf4
+Suggests: knitr, rmarkdown
 License: CC BY 4.0
 Archs: x64
