@@ -11,5 +11,6 @@ Package: MeteoMate
 Version: 1.0.0
 Depends: R (>= 2.10)
 Imports: ncdf4
+Suggests: knitr, rmarkdown
 License: CC BY 4.0
-MD5sum: 8e95b8e5ecce0369d4a38761b94b4b10
+MD5sum: 7c8fb2fa12d620959b581825714dcede
