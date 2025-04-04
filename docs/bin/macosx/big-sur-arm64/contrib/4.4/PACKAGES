@@ -13,4 +13,4 @@ Depends: R (>= 2.10)
 Imports: ncdf4
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
-MD5sum: 7c8fb2fa12d620959b581825714dcede
+MD5sum: 46841e6957b43ab099a2b042fc89661f
