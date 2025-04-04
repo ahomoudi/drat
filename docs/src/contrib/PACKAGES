@@ -33,5 +33,5 @@ Depends: R (>= 2.10)
 Imports: ncdf4
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
-MD5sum: 17e109da899e7358a21077fa1949148b
+MD5sum: fab379be026f1b495250e941dc95c105
 NeedsCompilation: no
