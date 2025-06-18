@@ -27,6 +27,16 @@ License: CC BY 4.0
 MD5sum: 7d1e01e137e50ca4af3179168964c8cb
 NeedsCompilation: no
 
+Package: idps
+Version: 1.0.1
+Imports: dplyr, fitdistrplus, ggplot2, igraph, imager, lubridate,
+        magrittr, rhdf5, sf, stats, stringr, terra (>= 1.7.0), tidyr,
+        units
+Suggests: knitr, rmarkdown
+License: CC BY 4.0
+MD5sum: a1bb2b11603b7eead01ceb251afd3735
+NeedsCompilation: no
+
 Package: MeteoMate
 Version: 1.0.0
 Depends: R (>= 2.10)
