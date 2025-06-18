@@ -7,6 +7,15 @@ Suggests: knitr, rmarkdown
 License: CC BY 4.0
 MD5sum: 63c20f50c999e0819dcdbd9df67dce3b
 
+Package: idps
+Version: 1.0.1
+Imports: dplyr, fitdistrplus, ggplot2, igraph, imager, lubridate,
+        magrittr, rhdf5, sf, stats, stringr, terra (>= 1.7.0), tidyr,
+        units
+Suggests: knitr, rmarkdown
+License: CC BY 4.0
+MD5sum: 1566964f7f8206fed5802f1819d4b538
+
 Package: MeteoMate
 Version: 1.0.0
 Depends: R (>= 2.10)
