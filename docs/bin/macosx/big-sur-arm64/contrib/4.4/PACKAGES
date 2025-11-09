@@ -14,7 +14,7 @@ Imports: dplyr, fitdistrplus, ggplot2, igraph, imager, lubridate,
         units
 Suggests: knitr, rmarkdown
 License: CC BY 4.0
-MD5sum: 1566964f7f8206fed5802f1819d4b538
+MD5sum: 3233163a1590d3bec8ac603c3357907b
 
 Package: MeteoMate
 Version: 1.0.0
